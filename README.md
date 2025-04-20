@@ -8,7 +8,7 @@ Built with **Vite + React + TypeScript**
 
 ## 🚀 Live Demo
 
-👉 [Visit ByteClamp Tool](https://sohel22z.github.io/ByteClamp)
+👉 [Visit ByteClamp Tool](https://sohel22z.github.io/ByteClamp/)
 
 ---
 
